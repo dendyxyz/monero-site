@@ -1,10 +1,12 @@
+## Swiss Flag-Inspired Redesign
+
 For https://bounties.monero.social/posts/153/1-202m-create-redesign-for-getmonero-org-and-monero-logo-in-swiss-flag-inspired-color-branding
 
 ## Criteria
 
 ![Logo](swiss.png)
 
-I am hosting a demo at swiss.dendy.xyz
+I am hosting a demo at https://swiss.dendy.xyz
 
 Homepage: https://swiss.dendy.xyz/
 Support Monero: https://swiss.dendy.xyz/get-started/contributing/
@@ -14,7 +16,7 @@ Merchants and Exchanges: https://swiss.dendy.xyz/community/merchants/
 
 89AaKpZyAh2XT5JJZcMmy2axcfzVrXVQY7ogJ962oHFGbmgmKZsdLjrJbKRGR9fWNTCDJkWPwQ4EghEJLWU82hks5RCwdiv
 
-## Instructions for running locally
+# Instructions for running locally
 
 ## What you'll need
 
